@@ -1,2 +1,7 @@
-# portfolio
-Hobby and Acadamic projects
+# Omoge's Portfolio 
+Welcome to my portfolio page.
+
+This is a page that stores all of my hobby and academic projects.
+
+A working link to my web programming projects is here:
+https://thor.quincy.edu/~omoge/
